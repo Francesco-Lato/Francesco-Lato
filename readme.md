@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">Cuento con varios años de experiencia como diseñador gráfico y fotógrafo, áreas en las que he desarrollado una sólida base creativa y técnica. Paralelamente, me apasiona el mundo del desarrollo web, motivo por el cual he completado un Grado Superior en Desarrollo de Aplicaciones Web, ampliando mis competencias en el ámbito digital.</p>
+<p align="left">Me llamo Francesco, soy italiano y vivo en Córdoba. Cuento con varios años de experiencia como diseñador gráfico y fotógrafo, áreas en las que he desarrollado una sólida base creativa y técnica. Paralelamente, me apasiona el mundo del desarrollo web, motivo por el cual he completado un Grado Superior en Desarrollo de Aplicaciones Web, ampliando mis competencias en el ámbito digital.</p>
 
 ###
 
